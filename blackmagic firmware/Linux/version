@@ -1,0 +1,9 @@
+commit 7663794fdfb586f77d4b755600069ad4f1a0bdeb
+Merge: 09f49b4 3846ea4
+Author: Gareth McMullin <gareth@blacksphere.co.nz>
+Date:   Sun Jul 9 14:33:06 2017 -0700
+
+    Merge pull request #247 from schodet/stm32f4-x8-x32
+    
+    Allow programming STM32F4 when using a low voltage
+
